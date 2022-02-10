@@ -339,6 +339,9 @@
 # 46000 China
 46000	120.234.41.144	41400
 
+# 46028 ChengDu City, China
+46028	114.115.167.98	41400
+
 # 43389 SouthEast Link
 43389	nxdn.lmarc.net	41400
 
